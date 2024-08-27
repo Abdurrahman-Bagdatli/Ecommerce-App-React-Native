@@ -14,7 +14,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 - ShowToast
 
 ## Application Preview
-![EcommercePhoto](https://github.com/user-attachments/assets/55803cc4-6e35-477c-90e9-8cd4c23ec7a5)
+![EcommercePhoto](https://github.com/user-attachments/assets/18eaa661-1171-4814-b4ff-9ab2d065a59f)
 
 ## Introduction Video
 https://github.com/user-attachments/assets/ef9cc5c6-d2b1-44b8-919e-f234dd311056
