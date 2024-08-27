@@ -17,7 +17,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 ![EcommercePhoto](https://github.com/user-attachments/assets/55803cc4-6e35-477c-90e9-8cd4c23ec7a5)
 
 ## Introduction Video
-https://github.com/user-attachments/assets/b20ef54a-43d0-4228-b68a-ff49bc4d5842
+https://github.com/user-attachments/assets/ef9cc5c6-d2b1-44b8-919e-f234dd311056
 
 # Getting Started
 
