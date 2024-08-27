@@ -1,4 +1,23 @@
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+
+## Technologies Used in the Project
+
+- React Native
+- HTTP GET/POST Requests
+- React Navigation
+- Redux
+- Git
+- GitHub
+- Redux Actions
+- Custom Components & Colors
+- ShowToast
+
+## Application Preview
+![EcommercePhoto](https://github.com/user-attachments/assets/55803cc4-6e35-477c-90e9-8cd4c23ec7a5)
+
+## Introduction Video
+https://github.com/user-attachments/assets/b20ef54a-43d0-4228-b68a-ff49bc4d5842
 
 # Getting Started
 
